@@ -1,0 +1,17 @@
+[tool.autopep8]
+max_line_length = 88
+ignore = ['E501']
+
+[tool.black]
+line-length = 88
+target-version = ['py38']
+include = '\.py?$'
+exclude = '''
+/(
+    \.git
+  | \.mypy_cache
+  | data
+  | docs
+  | logs
+)
+'''
