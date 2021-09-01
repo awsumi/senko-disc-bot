@@ -1,3 +1,4 @@
+\\\\this projekt was made by NotMaxee. i jsut reupload it
 <!-- Banner & Title -->
 
 <img src="https://i.imgur.com/Ot5uX1O.png" alt="Senko - An entertainment bot for Discord">
