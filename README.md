@@ -80,7 +80,7 @@ feedback on the bot or report a bug, this is the place to make your voice heard.
 
 # License
 
-Senko is released under the [MIT License](LICENSE). 
+Senko is released under the [DN License](https://www.youtube.com/watch?v=dQw4w9WgXcQ). 
 
 # Hosting Senko
 
